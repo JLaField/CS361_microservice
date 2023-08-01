@@ -6,4 +6,4 @@ To request data, call the API with a HTTP GET request. For example, GET localhos
 You will then receive the data through the HTTP response, in the form of JSON objects. 
 In this example, you will receive all objects relating to organizations who have a category of medical. 
 
-[UML sequence diagram](/microservice_UML.png)
+![UML sequence diagram](/microservice_UML.png)
